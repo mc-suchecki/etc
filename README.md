@@ -1,9 +1,11 @@
-download
-===========
+etc
+====
 
-Script useful for copying photos from camera and organising them.
+Bash scripts and other simple code snippets useful in everyday life.
 
-block
-===========
+### block
+Script blocking particular websites using iptables.
 
-Script useful for blocking particular websites using iptables.
+### download
+Script copying photos from camera and organising them.
+
