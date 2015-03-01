@@ -15,6 +15,9 @@ Script copying photos and videos from card and organising them in folders.
 ### flanalyzer.py
 Python script analysing photos and drawing graph depicting the usage of different focal lengths among them.
 
+### publishPhotos.py
+Python script resizing the pictures, compressing them and uploading to cloud using the Dropbox API.
+
 ### lol.c
 Joke program ejecting the CD tray in loop and executing a fork bomb when somebody tries to kill it.
 
