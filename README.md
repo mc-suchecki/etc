@@ -3,7 +3,7 @@ etc
 
 Bash scripts and other simple code snippets useful in everyday life.
 
-### block
+### block.sh
 Script blocking particular websites using iptables.
 
 ### download

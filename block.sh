@@ -16,7 +16,7 @@ fi
 echo "Blocking $1 website..."
 iptables -A INPUT -s $1 -j DROP
 iptables -A OUTPUT -s $1 -j DROP
-/etc/rc.d/iptables save
+iptables-save > /etc/iptables.conf
 
 echo 'Done!'
 exit 0
