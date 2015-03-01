@@ -6,6 +6,9 @@ Bash scripts and other simple code snippets useful in everyday life.
 ### block.sh
 Script blocking particular websites using iptables.
 
+### changeDate.sh
+Script modifying the image EXIF date and time data.
+
 ### import.sh
 Script copying photos and videos from card and organising them in folders.
 
